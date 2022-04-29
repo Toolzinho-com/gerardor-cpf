@@ -1,4 +1,4 @@
-# Gerar CPF
+# Gerarador de CPF
 Código para gerar CPF válido.
 
 Link: https://toolzinho.com/pt-br/tool/generate-cpf
